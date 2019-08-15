@@ -1,0 +1,5 @@
+# Audio #
+############
+# These files are too big.
+*.wav
+
