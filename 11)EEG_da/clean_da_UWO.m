@@ -1,4 +1,4 @@
-%% Script for formatting and error-checking UWO between-subjects pilot data
+%% Script for formatting and error-checking UWO within-subjects pilot data
 % Formats data into one .mat file in a manner consistent with other sites.
 % Quality-checks data. 
 
