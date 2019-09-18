@@ -2,7 +2,7 @@
 Single-channel EEG preprocessing and analysis code for one subject at 6 site locations. The raw data and preregistration protocol associated with this code are available at https://osf.io/duq34/. 
 
 # Requirements
-- [EEGLAB (version 4.1.2b)](https://sccn.ucsd.edu/eeglab/download.php)  
+- [EEGLAB (version 14.1.2b)](https://sccn.ucsd.edu/eeglab/download.php)  
 - [Matlab 2016b](https://www.mathworks.com/)  
 - mi3.wav is required for the F0-tracking analysis from Wong et al. (2007, Nature Neuroscience) and is not provided here. Contact the [Auditory Neuroscience Laboratory](https://brainvolts.northwestern.edu/) if you would like to request access to their stimulus. This stimulus should be saved in the `AnalysisFunctions` folder before running `12)EEG_mi3/run_withinPilot_mi3.m`. 
 
